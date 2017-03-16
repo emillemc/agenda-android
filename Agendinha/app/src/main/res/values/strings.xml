@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Agendinha</string>
+
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="salvar">Salvar</string>
+    <string name="entrar">Entrar</string>
+    <string name="desc">img do android</string>
+    <string name="title_activity_main">Contatos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="btnome">Emille</string>
+    <string name="btSalvar">Salvar</string>
+    <string name="exibirEmail">Exibir Email?</string>
+    <string name="mostrarAmigos">Mostrar Amigos?</string>
+
+
+</resources>
